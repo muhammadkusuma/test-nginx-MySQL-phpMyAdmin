@@ -116,4 +116,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
-For questions or support, please contact [yourname](mailto:mwiraadekusuma@duck.com).
+For questions or support, please contact [wira](mailto:mwiraadekusuma@duck.com).
